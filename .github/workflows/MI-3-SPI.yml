@@ -6,7 +6,7 @@ name: MI-3-SPI
 # events but only for the master branch
 on:
   watch:
-    action: [started]
+    types: [started]
 #  push:
 #    branches:    
 #      - master
