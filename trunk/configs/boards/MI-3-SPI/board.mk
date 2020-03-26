@@ -1,8 +1,8 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# MI-MINI   # Xiaomi Mi Mini   # MT7620  #
+# MI-3-SPI      # Xiaomi MiWiFi 3  # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_MIMINI
+CFLAGS += -DBOARD_MI3
 BOARD_NUM_USB_PORTS=1
