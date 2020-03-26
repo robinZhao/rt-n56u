@@ -42,7 +42,7 @@ jobs:
         mkdir -p /opt/images/
     - name: Build Firmware
       env:
-        TNAME: MI-3-SPI
+        TNAME: MI-MINI
       run: |
         cd /opt/rt-n56u/trunk
         sudo ./clear_tree
