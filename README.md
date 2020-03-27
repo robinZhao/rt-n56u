@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/hanwckf/rt-n56u.svg?branch=master)](https://travis-ci.com/hanwckf/rt-n56u)
-![GitHub All Releases](https://img.shields.io/github/downloads/hanwckf/rt-n56u/total)
-[![release](https://img.shields.io/github/release/hanwckf/rt-n56u.svg)](https://github.com/hanwckf/rt-n56u/releases)
+[![Build Status](https://travis-ci.com/robinZhao/rt-n56u.svg?branch=master)](https://travis-ci.com/robinZhao/rt-n56u)
+![GitHub All Releases](https://img.shields.io/github/downloads/robinZhao/rt-n56u/total)
+[![release](https://img.shields.io/github/release/robinZhao/rt-n56u.svg)](https://github.com/robinZhao/rt-n56u/releases)
 
 # README #
 
