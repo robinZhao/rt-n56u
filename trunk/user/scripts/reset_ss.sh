@@ -14,6 +14,10 @@ cat > "$script_start" <<EOF
 # backlog for UNIX sockets
 echo 64       > /proc/sys/net/unix/max_dgram_qlen
 
+# ipv4
+#echo 0        > /proc/sys/net/ipv4/tcp_tw_recycle
+echo 0        > /proc/sys/net/ipv4/tcp_timestamps
+
 # igmp
 echo 30       > /proc/sys/net/ipv4/igmp_max_memberships
 
